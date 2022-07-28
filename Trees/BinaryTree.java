@@ -11,7 +11,7 @@ class Node{
         left = null;
     }
 }
-public class BinarySearchTree{
+public class BinaryTree{
     Node root;
     BinarySearchTree(){
         root = null;
