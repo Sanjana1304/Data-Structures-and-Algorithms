@@ -7,5 +7,11 @@ Circular Linked List is a variation of Linked list in which the first element po
 
 ## Basic Operations on Circular Linked List in Data Structures
 
+### InsertNode
+
+### DeleteNode
+
+### SearchElement
+
 ### Built On
 -  Visual Studio Code
