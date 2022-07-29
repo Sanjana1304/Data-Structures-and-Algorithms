@@ -44,5 +44,14 @@ In this folder, we are going to discuss about Simple Queue.
 - Array (Refer QueueImplementation_Array.java file)
 - Linked List (Refer QueueImplementation_LL.java file)
 
+
+### Application of Queue
+- Managing requests on a single shared resource such as CPU scheduling and disk scheduling
+- Handling hardware or real-time systems interrupts
+- Handling website traffic
+- Routers and switches in networking
+- Maintaining the playlist in media players
+
+
 ### Built On
 -  Visual Studio Code
