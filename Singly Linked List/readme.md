@@ -34,9 +34,13 @@ In this folder, we are going to discuss about Singly Linked List.
 
 ### DeleteFirst
 
+<img width="683" alt="Screenshot 2022-07-29 at 10 54 37 PM" src="https://user-images.githubusercontent.com/64159652/181811999-010d40e0-4727-4535-b245-875b86ecdace.png">
 
 
 ### DeleteLast
+
+<img width="683" alt="Screenshot 2022-07-29 at 10 55 37 PM" src="https://user-images.githubusercontent.com/64159652/181812156-c920c531-1b3b-416e-b69e-bf528e716450.png">
+
 
 ### DeleteAfterData
 
