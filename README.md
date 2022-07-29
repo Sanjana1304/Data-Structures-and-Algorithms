@@ -27,6 +27,12 @@ Stacks can be used to :
 ### APPLICATION OF QUEUE
 
 There are various applications of a queue. They are:
+- Managing requests on a single shared resource such as CPU scheduling and disk scheduling
+- Handling hardware or real-time systems interrupts
+- Handling website traffic
+- Routers and switches in networking
+- Maintaining the playlist in media players
+
 
 ### RECURSION:
 
