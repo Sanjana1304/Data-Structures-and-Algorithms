@@ -37,7 +37,7 @@ In this folder, we are going to discuss about Simple Queue.
 - To check whether the queue is full or not.
 
 ### isEmpty
-- To check whether the queue is full or not.
+- To check whether the queue is empty or not.
 
 
 ### Queues can be implemented using:
