@@ -27,3 +27,15 @@ Binary Tree is a special kind of tree in which every node can have a maximum of 
 - Pre - order traversal.
 - Post - order traversal.
  2. Breath first traversals.
+
+## Binary Search Trees
+
+A Binary Search Tree, is a binary tree data structure which has the following properties:
+- The left sub tree of a node contains only nodes with keys lesser than the node’s key.
+- The right sub tree of a node contains only nodes with keys greater than the node’s key.
+- The left and right sub tree each must also be a binary search tree.
+- There must be no duplicate nodes.
+
+<img width="331" alt="Screenshot 2022-07-31 at 10 37 05 PM" src="https://user-images.githubusercontent.com/64159652/182037527-ce793569-9a6d-4168-894b-906143bfe927.png">
+
+
