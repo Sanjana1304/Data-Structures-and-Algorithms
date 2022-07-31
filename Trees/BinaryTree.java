@@ -16,7 +16,7 @@ public class BinaryTree{
     BinarySearchTree(){
         root = null;
     }
-    BinarySearchTree(int value){
+    BinaryTree(int value){
         root = new Node(value);
     }
     public boolean isEmpty(){
@@ -65,7 +65,7 @@ public class BinaryTree{
     }
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-        BinarySearchTree obj = new BinarySearchTree();
+        BinaryTree obj = new BinaryTree();
         int item;
         while(true){
             System.out.println("1. Insert\n2. In Order\n3.PreOrder\n4.PostOrder");
